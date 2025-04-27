@@ -1,2 +1,3 @@
 Teste de GIT e Versionamento
 Teste de nova linha
+Teste se está na branch staging
